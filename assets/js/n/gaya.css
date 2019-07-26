@@ -1,0 +1,33 @@
+<script type="text/javascript">
+            $(document).ready(function() {
+                des();
+            });
+
+            
+            function cek() {
+                $.ajax({
+                    url: "<?php echo base_url(); ?>index.php/rapat/viewAllNotif",
+                    cache: false,
+                    success: function(msg) {
+                        $("#notification").html(msg);
+                       
+                    }
+                });
+                var waktu = setTimeout("cek()", 3000);
+            }
+
+            function des(){
+                cek();
+                $("#pesan").click(function() {
+                    $.ajax({
+                        url: "<?php echo base_url(); ?>index.php/rapat/viewDesNotif",
+                        cache: false,
+                        success: function(msg) {
+                            $("#kontent").html(msg);
+                        }
+                    });
+                });
+            }
+
+            
+        </script>
