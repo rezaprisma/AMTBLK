@@ -1,55 +1,51 @@
-# Codeigniter CRUD Generator 1.3.1 by [harviacode.com](http://harviacode.com)#
+# Aplikasi Monitoring Tugas Bagian Layanan Khusus Dan Manajemen Barang Habis Pakai by Reza Prisma Nurani#
 
-![harviacode crud generator 1 3.jpg](https://bitbucket.org/repo/587Kzp/images/2127696049-harviacode%20crud%20generator%201%203.jpg)
+![Reza Prisma](https://bitbucket.org/rezaprisma/amtblk/src/master/Home%20page.JPG)
 
 ## About : ##
 
-Codeigniter CRUD Generator is a simple tool to auto generate model, controller and view from your table. This tool will boost your writing code. This CRUD generator will make a complete CRUD operation, pagination, search, form*, form validation, export to excel and export to word. This CRUD Generator using bootstrap 3 style. You still need to modify the result code for more customization.
+8 Senior High School Bandung is one of the best National High School in Bandung, it located at Jl.Solontongan No.3-Bandung, west Java. Like the other high schools in indonesia it has three years of studies, ranging from class X to class Xll. 
+Special services officer at 8 Senior High School Bandung in doing work report recording, report cleaning, consumables commodity reports, and made an equipment applications that is still use manual recording and reporting by using a media such as paper. Therefore arose the problem of loss and damage to the document, inaccurate data due to imptoper data recording, data duplication, and consistency of data. Therefore, the authors propose to make Application in Web Based For Monitoring The Special Service Officers and Management of Consumables Commodity to helps special service officers in making required reports. 
 
-*generate textarea and text input only
 
-Please visit and like [harviacode.com](http://harviacode.com) for more info and PHP tutorials.
+Please visit and like [Nakamura](https://reza48prisma.wordpress.com/) for more info.
 
-## How to use this CRUD Generator : ##
+![Reza Prisma](https://bitbucket.org/rezaprisma/amtblk/src/master/Dashboard%20Kepegawaian.JPG)
 
-1. Simply put 'harviacode' folder, 'asset' folder and .htaccess file into your project root folder.
-2. Open http://localhost/yourprojectname/harviacode.
-3. Select table and push generate button.
 
-## Important : ##
+## Role/User##
 
-* On application/config/autoload.php, load database library, session library and url helper.
-* On application/config/config.php, set $config['base_url'] = 'http://localhost/yourprojectname', $config['index_page'] = '', $config['url_suffix'] = '.html' and $config['encryption_key'] = 'randomstring'
-* On application/config/database.php, set hostname, username, password and database
+1. Petugas Tata Usaha Bagian Kepegawaian
+	-	mengelola data pegawai, megedit data pegawai, delete data pegawai, membuat hak akses pegawai dan mencabut hak akses pegawai.
+	-	menampilkan dan mencetak laporan tugas bagian layanan khusus.
+	-	mengelola penugasan petugas kebun dan petugas security.
+2. Petugas Tata Usaha Bagian Administrasi Barang
+	-	mengelola data barang,dan mengedit data barang.
+	-	melakukan penggantian barang rusak maupun habis.
+	-	mengelola data pengeluaran barang.
+3. Petugas Kebun.
+	-	mengelola laporan penugasan harian maupun penugasan tambahan.
+	-	mengelola kondisi barang.
+4. Petugas Security
+	-	mengelola laporan kejadian dan peristiwa pada saat ronda.
+5. Petugas Cleaning Service
+	-	mengelola laporan penugasan harian maupun penugasan tambahan.
+	-	mengelola kondisi barang.
 
-## Thanks for Support Me ##
-Buy me a cup of coffee.. paypal : hariprasetyo0212@gmail.com
+## Pengerjaan : ##
+metode pengerjaan proyek akhir ini dengan menggunakan model waterfall/model liniear sequintal. Bahasa pemrograman yang digunakan adalah PHP dengan menggunakan framework Codeigniter (CI) dan MySQL sebagai database. 
+
+![Reza Prisma](https://bitbucket.org/rezaprisma/amtblk/src/master/Dashboard%20Adminnistrasi%20Barang.JPG)
 
 ## Update ##
-V.1.3.1 - 05 April 2016
+V.1.2 - 25 Januari 2017
 
-* Put view files into folder
-
-
-V.1.3 - 09 December 2015
-
-* Zero Config for database connection
-* Fix bug searching
-* Fix field name label
-* Add select table from database
-* Add generate all table
-* Select target folder from setting menu
-* Remove support for Codeigniter 2
-
-V.1.2 - 25 June 2015
-
-* Add custom target folder
 * Add export to excel
 * Add export to word
 
-V.1.1 - 21 May 2015
+V.1.1 - 27 Desember 2016
 
 * Add custom controller name and custom model name
 * Add client side datatables
 
-**Copyright 2015 [harviacode.com](http://harviacode.com)**
+**Copyright 2017**
