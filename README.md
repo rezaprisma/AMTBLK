@@ -1,6 +1,6 @@
 # Aplikasi Monitoring Tugas Bagian Layanan Khusus Dan Manajemen Barang Habis Pakai by Reza Prisma Nurani#
 
-![Reza Prisma](https://github.com/rezaprisma/AMTBLK/blob/master/assets/tampilan/images/awal.jpeg)
+![Reza Prisma](https://github.com/rezaprisma/AMTBLK/blob/master/assets/tampilan/Home page.JPG)
 
 ## About : ##
 
@@ -10,7 +10,7 @@ Special services officer at 8 Senior High School Bandung in doing work report re
 
 Please visit and like [Nakamura](https://reza48prisma.wordpress.com/) for more info.
 
-![Reza Prisma](https://bitbucket.org/rezaprisma/amtblk/src/master/Dashboard%20Kepegawaian.JPG)
+![Reza Prisma](https://github.com/rezaprisma/AMTBLK/blob/master/assets/tampilan/Dashboard Kepegawaian.JPG)
 
 
 ## Role/User##
@@ -35,7 +35,7 @@ Please visit and like [Nakamura](https://reza48prisma.wordpress.com/) for more i
 ## Pengerjaan : ##
 metode pengerjaan proyek akhir ini dengan menggunakan model waterfall/model liniear sequintal. Bahasa pemrograman yang digunakan adalah PHP dengan menggunakan framework Codeigniter (CI) dan MySQL sebagai database. 
 
-![Reza Prisma](https://bitbucket.org/rezaprisma/amtblk/src/master/Dashboard%20Adminnistrasi%20Barang.JPG)
+![Reza Prisma](https://github.com/rezaprisma/AMTBLK/blob/master/assets/tampilan/Dashboard Adminnistrasi Barang.JPG)
 
 ## Update ##
 V.1.2 - 25 Januari 2017
