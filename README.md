@@ -1,4 +1,4 @@
-# Aplikasi Monitoring Tugas Bagian Layanan Khusus Dan Manajemen Barang Habis Pakai by Reza Prisma Nurani#
+# Aplikasi Monitoring Tugas Bagian Layanan Khusus Dan Manajemen Barang Habis Pakai by Prisma #
 
 ![Reza Prisma](https://github.com/rezaprisma/AMTBLK/blob/master/assets/tampilan/Home%20page.JPG)
 
